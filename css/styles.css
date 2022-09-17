@@ -1,0 +1,131 @@
+#title{
+  background-color: #ff4c68;
+}
+
+body{
+  font-family: "Montserrat";
+}
+
+h1{
+  font-family: "Montserrat-Black 900", sans-serif;
+  font-size: 5rem;
+  line-height: 1;
+  padding-top: 6rem;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+#iphone{
+  transform: rotate(20deg);
+}
+
+.navbar-brand{
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.navbar{
+  padding-bottom: 4.5rem;
+}
+
+.down-but{
+  margin-left: 5%;
+  margin-top: 7%;
+}
+
+.nav-item{
+  font-family: "Montserrat-Thin 100";
+  font-weight: lighter;
+  font-size: 1.5rem;
+  padding: 0 18px;
+}
+
+#features{
+  padding-top: 10%;
+  margin-left: 2%;
+  text-align: center;
+}
+
+h3{
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 1.5rem;
+}
+
+.subtext{
+  color: #8f8f8f;
+}
+
+.color{
+  color: #ef8172;
+  padding-bottom: 1rem;
+}
+
+.color:hover{
+  color: #ff4c68;
+}
+
+#testimonials{
+  background-color: #ff4c68;
+}
+
+#press{
+  background-color: #ff4c68;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+.testimonial-image{
+  border-radius: 100%;
+  margin: 20px;
+}
+
+h2{
+  font-family: "Montserrat";
+  padding-top: 5rem;
+  align-self: center;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.press-image{
+  width: 10%;
+  margin: 5%;
+}
+
+.card{
+  width: 18rem;
+}
+
+.kukura{
+  font-family: "Montserrat";
+  font-weight: 900;
+}
+
+.lol{
+  padding-top: 5rem;
+}
+
+#cta{
+  background-color: #ff4c68;
+}
+
+.hehe-boi{
+  font-size: 3rem;
+  padding-top: 10%;
+}
+
+.lastbut{
+  margin-bottom: 8%;
+}
+
+#footer{
+  margin-top: 8%;
+}
+
+.social{
+  padding-bottom: 4%;
+  padding-left: 2%;
+}
